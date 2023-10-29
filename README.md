@@ -55,31 +55,11 @@
 <br/>
 <br />
 
-<p><a href="https://github.com/ShubhamParkhi#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamParkhi&theme=nightowl#gh-dark-mode-only" alt="ShubhamParkhi" /></a>
-<a href="https://github.com/ShubhamParkhi#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamParkhi&theme=vue#gh-light-mode-only" alt="ShubhamParkhi" /></a></p>
-<br/>
-
 ---
-
-
-                    
-
-<h2>My Latest Project</h2> 
-<br />
-<p><a href="https://github.com/ShubhamParkhi/chika-litti #gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamParkhi&repo=chika-litti &theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/ShubhamParkhi/chika-litti #gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamParkhi&repo=chika-litti &theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
-
-
-                    
-
+                  
 <h2>Connect With Me</h2> 
 <p align="left">
 <a href="https://twitter.com/ShubhamParkhi11" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShubhamParkhi11" /></a>
 <a href="https://instagram.com/shxbhamparkhi" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shxbhamparkhi" /></a>
 <a href="https://www.linkedin.com/in/shubhamparkhi/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
-
-                
-
-            
