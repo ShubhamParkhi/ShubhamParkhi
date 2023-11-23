@@ -7,7 +7,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img alt="Languages and Tools" src="https://skillicons.dev/icons?i=html,css,js,ts,solidity,bootstrap,tailwind,react,next,supabase,appwrite,nodejs,vercel,ps,ae,pr,figma,vscode,git,github,githubactions"  />
+<img width="5000px" alt="Languages and Tools" src="https://skillicons.dev/icons?i=html,css,js,ts,solidity,bootstrap,tailwind,react,next,supabase,appwrite,nodejs,vercel,ps,ae,pr,figma,vscode,git,github,githubactions"  />
 </p>
 
 <h2>Statistics</h2>
