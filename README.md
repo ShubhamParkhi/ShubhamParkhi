@@ -4,13 +4,12 @@
 `**Digital Craftsman (Developer / Programmer)**`                  
 
 <p align="left">I have a strong foundation in web development, blockchain, and open source as a developer. I am a student based in India. With over two years of experience in the industry, I have a proven ability to solve complex problems and deliver projects successfully. All coding projects are built from the ground up, beginning with planning and design and progressing to the solution of real-world problems with code. In addition to my technical abilities, I am a skilled content creator, having shared my knowledge and expertise. My goal as a full-stack developer and creative content producer is to constantly learn, grow, and make a meaningful impact in the digital world.</p>
-<br />
 
 <h2>Languages and Tools</h2> 
 <p align="left">
 <img alt="Languages and Tools" src="https://skillicons.dev/icons?i=html,css,js,ts,solidity,bootstrap,tailwind,react,next,supabase,appwrite,nodejs,vercel,ps,ae,pr,figma,vscode,git,github,githubactions"  />
 </p>
-<br />
+
 <h2>Statistics</h2>
 <p>
 <a href="https://github.com/ShubhamParkhi#gh-dark-mode-only" target="_blank">
@@ -30,7 +29,6 @@
 <a href="https://github.com/ShubhamParkhi#gh-light-mode-only" target="_blank">
 <img align="center" alt="Github Statistics" src="https://streak-stats.demolab.com?user=ShubhamParkhi&theme=vue#gh-light-mode-only"/>
 </p> 
-<br />
   
 <h2>Connect With Me</h2> 
 <p align="left">
