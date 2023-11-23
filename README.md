@@ -23,6 +23,8 @@
 <img align="center" alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=ShubhamParkhi&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" />
 <a href="https://github.com/ShubhamParkhi#gh-light-mode-only" target="_blank">
 <img align="center" alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=ShubhamParkhi&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" />
+</p>
+<p>
 <a href="https://github.com/ShubhamParkhi#gh-dark-mode-only" target="_blank">
 <img align="center" alt="Github Statistics" src="https://streak-stats.demolab.com?user=ShubhamParkhi&theme=nightowl#gh-dark-mode-only"/>
 <a href="https://github.com/ShubhamParkhi#gh-light-mode-only" target="_blank">
