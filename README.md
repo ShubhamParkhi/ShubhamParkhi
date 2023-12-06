@@ -3,7 +3,7 @@
                                   
 <a href="https://shubhamparkhi.vercel.app" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=14&pause=1000&color=E6EDF3&vCenter=true&repeat=false&random=false&width=345&height=20&lines=**Digital+Craftsman+(Developer+%2F+Programmer)**" alt="Typing SVG" /></a>
 
-<p align="left">I have a strong foundation in web development, blockchain, and open source as a developer. I am a student based in India. With over two years of experience in the industry, I have a proven ability to solve complex problems and deliver projects successfully. All coding projects are built from the ground up, beginning with planning and design and progressing to the solution of real-world problems with code. In addition to my technical abilities, I am a skilled content creator, having shared my knowledge and expertise. My goal as a full-stack developer and creative content producer is to constantly learn, grow, and make a meaningful impact in the digital world.</p>
+<p align="left">Since first my fingers danced across a keyboard, I've been spellbound by the magic of making websites come alive. I breathe in feedback from user testing and exhale refined, polished pixels.</p>
 
 <h2>🛠 Languages and Tools</h2> 
 <p align="left">
