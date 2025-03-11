@@ -41,9 +41,11 @@
   <a href="https://shubhamparkhi.vercel.app#gh-dark-mode-only" target="_blank">
     <img align="center" alt="Github Statistics"
       src="https://streak-stats.demolab.com?user=ShubhamParkhi&theme=nightowl#gh-dark-mode-only" />
-    <a href="https://shubhamparkhi.vercel.app#gh-light-mode-only" target="_blank">
-      <img align="center" alt="Github Statistics"
-        src="https://streak-stats.demolab.com?user=ShubhamParkhi&theme=vue#gh-light-mode-only" />
+  </a>
+  <a href="https://shubhamparkhi.vercel.app#gh-light-mode-only" target="_blank">
+    <img align="center" alt="Github Statistics"
+      src="https://streak-stats.demolab.com?user=ShubhamParkhi&theme=vue#gh-light-mode-only" />
+  </a>
 </p>
 
 <h2>🔗 Connect With Me</h2>
